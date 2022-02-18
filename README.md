@@ -10,9 +10,6 @@ This project is in the field of serving cafe, restaurants. With this app you can
 ## Alternatives / Market research
 This product is not very well implemented in the KZ, we can say that there is no such thing yet. Only very developed countries like China and Japan use this in their cafes and restaurants. 
 
-## Goals
-The purpose of our application is to use time more efficiently in restaurants. With this application, you can reduce the number of employees, thereby improving the quality of restaurants
-
 ## Technologies
 Java, kotlin, spring boot, postgresql, javascript, vueJs, html, css  
 
@@ -25,10 +22,8 @@ We will have following pages:
 - Basket Page
 
 ## Goals
-* What is the purpose of this project?
-* What are the problems it will solve?
-* How will it streamline or improve the current process or facilitate a new process?
-* What is the product vision?
+The purpose of our application is to use time more efficiently in restaurants. With this application, you can reduce the number of employees, thereby improving the quality of restaurants
+
 
 ## User Personas
 1) Young parents, aged 18 to 35, both work hard from 9 to 6, have children, send their children to kindergarten every day except weekends. On weekends they clean the house. 
