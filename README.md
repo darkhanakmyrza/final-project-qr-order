@@ -43,7 +43,11 @@ We will have following pages:
 4) As a client who is introvert, I would like to not talk with waiter instead call him when I need it. Sometimes I sit and work at cafe and want to order something later , so it will make me uncomfortable and break my concentration when someone comes and asks me what WILL I order.
 
 ## Sitemap, Page descriptions
-*Display sitemap here*
+Main Page - is a page where you can sign in or register and you can see all information about the site. Using this page you can go to other pages. 
+Login/Register Pages - are pages that you register and login. To use our website, you must first register. 
+Catalog of Menu - in this page you can see the menu of the selected restaurant. And you can order the food. If you don't like certain foods in your food, you can eliminate that food. for example, you don't want to have a onion, etc. And you just pick no  onion. 
+Detail Prosuct Page - in this section you can see the ingredients of  selected meal. There will be full information about the food. What kind of people can't eat, what person can eat.  
+Basket Page - this page contains meals that you chose. Still you can save your favorite food etc.
 
 ## Non-Functional requirements
 The application must be build java, spring, javaScript vueJs.
