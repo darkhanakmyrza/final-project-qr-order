@@ -44,6 +44,7 @@ The purpose of our application is to use time more efficiently in restaurants. W
 * Detail Product Page - in this section you can see the ingredients of  selected meal. There will be full information about the food.
 What kind of people can't eat, what person can eat.
 * Basket Page - this page contains meals that you chose. Still you can save your favorite food etc.
+![alt text](images/mockups/photo.png)
 
 ## Non-Functional requirements
 The application must be build java, spring, javaScript vueJs.
