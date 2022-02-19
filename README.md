@@ -65,3 +65,6 @@ Business: Initially might have problems with QR, As client's  don't know why it'
 
 ## Future iterations
 As technology gets more innovatived, we will need innovative solutions current tasks. And scanning with qr code is one of them. At first it might be problems with people as they don't used to it. But in the end it will be more popular which everyone will use qr code to order. As, each person has mobile on their pocket. In addition menu will be changed easily.
+
+## Youtube proposal video
+https://youtu.be/sUm423c6ZFM
