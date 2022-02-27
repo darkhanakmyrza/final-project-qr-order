@@ -1,7 +1,7 @@
 > This folders will contain your reports
 ## Week by week plan
-|...|Akmyrza Darkhan|Maksotuly Zhangabek|Bolat Zhanserik
-|---|---|---|
+|...|Akmyrza Darkhan|Maksotuly Zhangabek|Bolat Zhanserik|
+|---|---|---|---|
 
 |Week #3|Design architecture|Design web site|Design database|
 |Week #4|Connecting db to backend postgresql|Design user interface in figma|Implementation of database|
